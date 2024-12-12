@@ -328,7 +328,7 @@ int main() {
                 // Get the option price
                 double price = americanOption.get_price();
                 cout<<price ;
-    // Record the end time
+    
 
 
 
